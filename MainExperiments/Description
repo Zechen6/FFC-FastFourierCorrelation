@@ -1,0 +1,1 @@
+The main experiments of FFC (Parameter Analysis and Comparison Experiments). The results are stored in the log file, since the authors did not provide a log-parsing script, the experimental results are directly copied from the log files into result_draw. We apologize for any inconvenience.
