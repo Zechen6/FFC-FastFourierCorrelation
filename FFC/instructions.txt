@@ -1,7 +1,0 @@
-I am afraid you need to set the data dir for every file.
-You can find the data path of each file by searching for the word "dataset".
-The function named "test-method" in each file is the FFC algorithm.
-Configure methods-bs-dict and other dicts before you run the evaluation file.
-To obtain the deletion-insertion game curve(Figure2.B-G), run eval-change-rate-local.py
-To obtain the minimum number of features that support the decisions, run eval-acc-local.py
-To obtain the characteristic of the Fourier Features, run compare_distinguish.py
