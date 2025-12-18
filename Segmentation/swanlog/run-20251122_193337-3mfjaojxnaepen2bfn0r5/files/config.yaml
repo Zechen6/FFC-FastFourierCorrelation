@@ -1,0 +1,16 @@
+batch_size:
+  desc: ''
+  sort: 0
+  value: 32
+device:
+  desc: ''
+  sort: 3
+  value: cuda
+learning_rate:
+  desc: ''
+  sort: 1
+  value: 0.0001
+num_epochs:
+  desc: ''
+  sort: 2
+  value: 40
