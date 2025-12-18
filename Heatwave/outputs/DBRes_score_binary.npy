@@ -1,0 +1,16 @@
+#Scores
+AUROC,AUPRC,F-measure,Accuracy,Weighted Accuracy
+0.881,0.869,0.739,0.772,0.784
+
+#MScores (per class)
+Classes,Present,Absent
+AUROC,0.871,0.890
+AUPRC,0.784,0.953
+F-measure,0.645,0.833
+Accuracy,0.796,0.764
+
+#Confusion Matrix
+Confusion Matrix
+Present,Absent
+39.0,33.0
+10.0,107.0
