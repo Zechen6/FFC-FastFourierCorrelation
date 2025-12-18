@@ -1,0 +1,4 @@
+For others, you can see the guidance of fullgrad:https://github.com/idiap/fullgrad-saliency for details. dump_images.py is the main file that runs inputgrad, smoothgrad, and gradcam.
+For IG, you can just run implement_captum after configuring your path. The file structure is simple, you can configure it by following the comments.
+For sorted_freq, just run it.
+
